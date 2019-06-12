@@ -27,6 +27,10 @@ Continue Chapter 3.
 
 Learned variables, if expression, loop/while/for iterations
 
-- Created temperature_conv.
+### Created temperature_conv.
 
+Learned:
+- Convert a string to upper case.
+- Retry input. string.clear()
+- Error handling in converting string to float.
 
