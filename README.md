@@ -25,6 +25,8 @@ Completed Chapter 1 and 2 by writing guessing_game.
 
 Continue Chapter 3.
 
-Learned variables, if expression, loop/while/for
+Learned variables, if expression, loop/while/for iterations
 
-Created temperature_conv.
+- Created temperature_conv.
+
+
