@@ -34,3 +34,9 @@ Learned:
 - Retry input. string.clear()
 - Error handling in converting string to float.
 
+## Day 3 - Understanding Ownership
+
+Learned:
+- Ownership of memory. Transferred as a pointer is passed.
+- Borrow by reference: One mutable reference or any number of immutable references.
+- Slice for substr
