@@ -40,3 +40,10 @@ Learned:
 - Ownership of memory. Transferred as a pointer is passed.
 - Borrow by reference: One mutable reference or any number of immutable references.
 - Slice for substr
+
+## Day 4 - Struct and Tuple
+
+Leaned
+- How to defien struct and tuple
+- How to write methods and associated methods for struct. ~= class
+- The ownership of tuple will not be transferred but copied.
