@@ -43,7 +43,15 @@ Learned:
 
 ## Day 4 - Struct and Tuple
 
-Leaned
-- How to defien struct and tuple
+Learned:
+- How to define struct and tuple
 - How to write methods and associated methods for struct. ~= class
 - The ownership of tuple will not be transferred but copied.
+
+## Day 5 - Enum, Match and If
+
+Learned:
+- Enum
+- Option<T>, Some and None
+- Match (case)
+- If ... single equal sign!!
