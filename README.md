@@ -55,3 +55,10 @@ Learned:
 - Option<T>, Some and None
 - Match (case)
 - If ... single equal sign!!
+
+## Day 6 - Module
+
+Learned:
+- How to start lib project
+- Module
+- Test
