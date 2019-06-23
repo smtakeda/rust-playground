@@ -62,3 +62,10 @@ Learned:
 - How to start lib project
 - Module
 - Test
+
+## Day 7 - Common Collections
+
+Learned:
+- Vector
+- string
+- HashMap
